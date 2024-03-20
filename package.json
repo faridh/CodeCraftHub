@@ -1,0 +1,25 @@
+{
+  "name": "codecrafthub",
+  "version": "1.0.0",
+  "description": "AI powered learning platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faridh/CodeCraftHub.git"
+  },
+  "author": "Faridh Mendoza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faridh/CodeCraftHub/issues"
+  },
+  "homepage": "https://github.com/faridh/CodeCraftHub#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.18.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.2.2"
+  }
+}
